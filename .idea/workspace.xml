@@ -7,296 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87f780ad-9213-42bb-8256-28f76152fb0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/nettyPro_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_netty_netty_all_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nettyPro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WakeUp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.50.Final-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.50.Final-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettyPro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/META-INF/nettyPro.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/WEB_INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/bio/BIOServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/bio/BIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/buf/NettyByteBuf01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/buf/NettyByteBuf02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServerHandler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/http/TestHttpServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/http/TestServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/http/TestServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyTextWebSocketFrameHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/BasicBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/MappedByteBufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOByteBufferPutGet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/ReadOnlyBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/ScatteringAndGatheringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/NewIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/NewIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/OldIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/OldIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/service/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/lib/netty-all-4.1.50.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB_INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/protoc-3.6.1-win32.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/bio/BIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/buf/NettyByteBuf01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/buf/NettyByteBuf02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/Student.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/StudentPOJO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/MyDataInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/Student.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/protoc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/dubborpc/provider/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/dubborpc/provider/ServerBootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/dubborpc/publicinterface/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/heartbreak/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/heartbreak/MyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/http/TestHttpServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/http/TestServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/http/TestServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyLongtoByteEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MessageProtocol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyMessageDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyMessageEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/websocket/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/websocket/MyTextWebSocketFrameHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/BasicBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/MappedByteBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOByteBufferPutGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/ReadOnlyBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/ScatteringAndGatheringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/groupchat/GroupChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/groupchat/GroupChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/NewIOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/NewIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/OldIOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/OldIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB_INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/WEB_INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/bio/BIOServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/bio/BIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/buf/NettyByteBuf01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/buf/NettyByteBuf02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$Student$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$Student$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$StudentOrBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$DataBodyCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$DataType$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$DataType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessageOrBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Student$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Student$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$StudentOrBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Worker$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Worker$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$WorkerOrBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServerHandler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/http/TestHttpServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/http/TestServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/http/TestServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyLongtoByteEncoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MessageProtocol.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyClientInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyMessageDecoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyMessageEncoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyClientInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyTextWebSocketFrameHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/BasicBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/MappedByteBufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOByteBufferPutGet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/ReadOnlyBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/ScatteringAndGatheringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/NewIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/NewIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/OldIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/OldIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/service/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tianlan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,13 +44,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1cZih936goon6JJUAOeQlmTOsca" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
@@ -354,7 +68,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.445977" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -584,7 +298,7 @@
       <workItem from="1591353362799" duration="217000" />
       <workItem from="1591353636217" duration="2069000" />
       <workItem from="1591365003508" duration="3866000" />
-      <workItem from="1591370700751" duration="465000" />
+      <workItem from="1591370700751" duration="787000" />
     </task>
     <servers />
   </component>
@@ -592,6 +306,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/nettyPro" />
     </ignored-roots>
@@ -701,10 +416,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1591370949829" />
-    <state x="294" y="0" key="SettingsEditor" timestamp="1591371165769">
+    <state x="294" y="0" key="SettingsEditor" timestamp="1591371458523">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="294" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591371165769" />
+    <state x="294" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591371458523" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1591022510129">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
