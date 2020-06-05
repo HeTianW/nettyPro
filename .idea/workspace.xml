@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f780ad-9213-42bb-8256-28f76152fb0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="87f780ad-9213-42bb-8256-28f76152fb0d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -298,7 +296,7 @@
       <workItem from="1591353362799" duration="217000" />
       <workItem from="1591353636217" duration="2069000" />
       <workItem from="1591365003508" duration="3866000" />
-      <workItem from="1591370700751" duration="787000" />
+      <workItem from="1591370700751" duration="1301000" />
     </task>
     <servers />
   </component>
@@ -416,10 +414,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1591370949829" />
-    <state x="294" y="0" key="SettingsEditor" timestamp="1591371458523">
+    <state x="294" y="0" key="SettingsEditor" timestamp="1591372002111">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="294" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591371458523" />
+    <state x="294" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591372002111" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1591022510129">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
