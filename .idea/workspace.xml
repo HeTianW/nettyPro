@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="nettyPro:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87f780ad-9213-42bb-8256-28f76152fb0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/nettyPro_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_netty_netty_all_4_1_50_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nettyPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WakeUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.50.Final-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.50.Final-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.50.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nettyPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/META-INF/nettyPro.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/WEB_INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/bio/BIOServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/bio/BIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/buf/NettyByteBuf01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/buf/NettyByteBuf02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/groupchat/GroupChatServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServerHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/heartbreak/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/http/TestHttpServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/http/TestServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/http/TestServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/simple/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/netty/websocket/MyTextWebSocketFrameHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/BasicBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/MappedByteBufferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOByteBufferPutGet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOFileChannel04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/NIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/ReadOnlyBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/ScatteringAndGatheringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/groupchat/GroupChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/NewIOClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/NewIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/OldIOClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/com/atgorgors/nio/zerocopy/OldIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/classes/service/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/lib/netty-all-4.1.50.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/WEB_INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/nettyPro_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protoc-3.6.1-win32.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/bio/BIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/buf/NettyByteBuf01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/buf/NettyByteBuf02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/Student.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec/StudentPOJO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/MyDataInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/Student.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/codec2/protoc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/dubborpc/provider/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/dubborpc/provider/ServerBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/dubborpc/publicinterface/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/groupchat/GroupChatServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/heartbreak/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/heartbreak/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/http/TestHttpServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/http/TestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/http/TestServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyLongtoByteEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MessageProtocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyMessageDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyMessageEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/prototcp/MyServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp/MyServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/websocket/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/websocket/MyTextWebSocketFrameHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/BasicBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/MappedByteBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOByteBufferPutGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/ReadOnlyBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/ScatteringAndGatheringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/groupchat/GroupChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/groupchat/GroupChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/NewIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/NewIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/OldIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atgorgors/nio/zerocopy/OldIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB_INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WEB_INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/bio/BIOServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/bio/BIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/buf/NettyByteBuf01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/buf/NettyByteBuf02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$Student$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$Student$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO$StudentOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec/StudentPOJO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$DataBodyCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$DataType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage$DataType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$MyMessageOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Student$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Student$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$StudentOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Worker$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Worker$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo$WorkerOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/MyDataInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/codec2/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/groupchat/GroupChatServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServerHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/heartbreak/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/http/TestHttpServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/http/TestServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/http/TestServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyClientInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyLongtoByteEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/inboundhandlerandoutboundhandler/MyServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MessageProtocol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyClientInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyMessageDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyMessageEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/prototcp/MyServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/NettyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/simple/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyClientInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/tcp/MyServerInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyServer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/netty/websocket/MyTextWebSocketFrameHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/BasicBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/MappedByteBufferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOByteBufferPutGet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOFileChannel04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/NIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/ReadOnlyBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/ScatteringAndGatheringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/groupchat/GroupChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/NewIOClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/NewIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/OldIOClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/atgorgors/nio/zerocopy/OldIOServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/service/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tianlan.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="071c29" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cZih936goon6JJUAOeQlmTOsca" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/atgorgors/netty/tcp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.445977" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaIU\nettyPro\src\main\java\com\atgorgors\netty\tcp" />
+      <recent name="D:\ideaIU\nettyPro\src\main\java\com\atgorgors\netty\codec2" />
+      <recent name="D:\ideaIU\nettyPro\src\main\java\com\atgorgors\netty\codec" />
+      <recent name="D:\ideaIU\nettyPro\src\main\java\service" />
+      <recent name="D:\ideaIU\nettyPro\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atgorgors.netty.tcp" />
+      <recent name="com.atgorgors.netty.inboundhandlerandoutboundhandler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaIU\nettyPro\src\main\java" />
+      <recent name="D:\ideaIU\nettyPro\src\main\webapp\WEB_INF" />
+      <recent name="D:\ideaIU\nettyPro" />
+      <recent name="D:\ideaIU\nettyPro\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyClient (2)">
+    <configuration name="MyClient (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgorgors.netty.tcp.MyClient" />
+      <module name="nettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atgorgors.netty.tcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClient (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgorgors.netty.prototcp.MyClient" />
+      <module name="nettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atgorgors.netty.prototcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgorgors.netty.tcp.MyServer" />
+      <module name="nettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atgorgors.netty.tcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgorgors.netty.prototcp.MyServer" />
+      <module name="nettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atgorgors.netty.prototcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atgorgors.netty.inboundhandlerandoutboundhandler.MyServer" />
+      <module name="nettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atgorgors.netty.inboundhandlerandoutboundhandler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.35" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.35" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/nettyPro_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="nettyPro:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/nettyPro_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_nettyPro" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55173" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="nettyPro:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.MyServer (1)" />
+      <item itemvalue="Application.MyClient (1)" />
+      <item itemvalue="Application.MyServer (2)" />
+      <item itemvalue="Application.MyClient (2)" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.35" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyClient (2)" />
+        <item itemvalue="Application.MyServer (2)" />
+        <item itemvalue="Application.MyServer (1)" />
+        <item itemvalue="Application.MyClient (1)" />
+        <item itemvalue="Application.MyServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87f780ad-9213-42bb-8256-28f76152fb0d" name="Default Changelist" comment="" />
+      <created>1590742632982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590742632982</updated>
+      <workItem from="1590742635950" duration="48000" />
+      <workItem from="1590742738842" duration="6618000" />
+      <workItem from="1590765288079" duration="867000" />
+      <workItem from="1590766173912" duration="1769000" />
+      <workItem from="1590818585894" duration="27649000" />
+      <workItem from="1590883159217" duration="4772000" />
+      <workItem from="1590941852719" duration="296000" />
+      <workItem from="1590988462283" duration="1256000" />
+      <workItem from="1590993536336" duration="11905000" />
+      <workItem from="1591009843068" duration="1607000" />
+      <workItem from="1591017666084" duration="10079000" />
+      <workItem from="1591028824629" duration="73000" />
+      <workItem from="1591066320260" duration="15951000" />
+      <workItem from="1591168882761" duration="4540000" />
+      <workItem from="1591179200789" duration="2160000" />
+      <workItem from="1591184314030" duration="194000" />
+      <workItem from="1591247144781" duration="2949000" />
+      <workItem from="1591265999227" duration="7749000" />
+      <workItem from="1591343395792" duration="7027000" />
+      <workItem from="1591353362799" duration="217000" />
+      <workItem from="1591353636217" duration="2069000" />
+      <workItem from="1591365003508" duration="3866000" />
+      <workItem from="1591370700751" duration="465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/nettyPro" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Project_Structure" timestamp="1591170605038">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1591170605038" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591352433740">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1591352433740" />
+    <state x="492" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591349731311">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="492" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1591349731311" />
+    <state x="516" y="286" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1590766160664">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="516" y="286" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.834@0.0.1536.834" timestamp="1590766160664" />
+    <state x="1049" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1591369175329">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1049" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591369175329" />
+    <state x="792" y="341" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1591169440976">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="792" y="341" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.834@0.0.1536.834" timestamp="1591169440976" />
+    <state x="780" y="324" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1591169708273">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="780" y="324" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.834@0.0.1536.834" timestamp="1591169708273" />
+    <state x="383" y="100" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1591009447085">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="383" y="100" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.834@0.0.1536.834" timestamp="1591009447085" />
+    <state x="548" y="276" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590840953352">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="276" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1590840953352" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591351226596">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1591351226596" />
+    <state x="544" y="209" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1591371163021">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="544" y="209" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1591371163021" />
+    <state width="460" height="466" key="DebuggerActiveHint" timestamp="1591080959778">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="460" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1591080959778" />
+    <state x="384" y="172" key="FileChooserDialogImpl" timestamp="1591369975535">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="384" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1591369975535" />
+    <state width="1493" height="180" key="GridCell.Tab.0.bottom" timestamp="1591370589576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="180" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591370589576" />
+    <state width="1493" height="180" key="GridCell.Tab.0.center" timestamp="1591370589576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="180" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591370589576" />
+    <state width="1493" height="180" key="GridCell.Tab.0.left" timestamp="1591370589575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="180" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591370589575" />
+    <state width="1493" height="180" key="GridCell.Tab.0.right" timestamp="1591370589576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="180" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591370589576" />
+    <state width="1024" height="181" key="GridCell.Tab.1.bottom" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state width="1024" height="181" key="GridCell.Tab.1.center" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state width="1024" height="181" key="GridCell.Tab.1.left" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state width="1024" height="181" key="GridCell.Tab.1.right" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state width="1024" height="181" key="GridCell.Tab.2.bottom" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state width="1024" height="181" key="GridCell.Tab.2.center" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state width="1024" height="181" key="GridCell.Tab.2.left" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state width="1024" height="181" key="GridCell.Tab.2.right" timestamp="1591177089816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="181" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1591177089816" />
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1591370949829">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1591370949829" />
+    <state x="294" y="0" key="SettingsEditor" timestamp="1591371165769">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="294" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591371165769" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1591022510129">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1591022510129" />
+    <state x="269" y="311" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591008454954">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="269" y="311" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1591008454954" />
+    <state x="285" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591346389451">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="285" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1591346389451" />
+    <state x="0" y="0" width="782" height="834" key="find.popup" timestamp="1591010967741">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" width="782" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1591010967741" />
+    <state x="53" y="225" key="new project wizard" timestamp="1591369983048">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="53" y="225" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1591369983048" />
+    <state x="417" y="269" width="715" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1591010388104">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="417" y="269" width="715" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1591010388104" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1590846733871">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1590846733871" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1591344322955">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1591344322955" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atgorgors/nio/NIOFileChannel01.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atgorgors/netty/http/TestHttpServerHandler.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atgorgors/netty/simple/NettyServer.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
